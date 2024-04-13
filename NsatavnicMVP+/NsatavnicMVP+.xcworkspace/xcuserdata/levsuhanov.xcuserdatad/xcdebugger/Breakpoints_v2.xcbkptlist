@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "283C9138-B565-4C0D-952A-5F8D2BC9D33E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E003012-0B5B-437A-8F2C-62948FCB83E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NsatavnicMVP+/MainAplicationControllerModule/Cells/FourCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "mainView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8E003012-0B5B-437A-8F2C-62948FCB83E2 - 63196e15c43c323d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIView in variable initialization expression of NsatavnicMVP_.FourCell.mainView : __C.UIView"
+                  moduleName = "NsatavnicMVP+"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levsuhanov/Desktop/NsatavnicMVP+/NsatavnicMVP+/MainAplicationControllerModule/Cells/FourCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "8E003012-0B5B-437A-8F2C-62948FCB83E2 - 57b36f6fb2a5b139"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NsatavnicMVP_.FourCell.mainView.getter : __C.UIView"
+                  moduleName = "NsatavnicMVP+"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levsuhanov/Desktop/NsatavnicMVP+/NsatavnicMVP+/MainAplicationControllerModule/Cells/FourCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8E003012-0B5B-437A-8F2C-62948FCB83E2 - f8b5fe330f31bf1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NsatavnicMVP_.FourCell.init(frame: __C.CGRect) -&gt; NsatavnicMVP_.FourCell"
+                  moduleName = "NsatavnicMVP+"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levsuhanov/Desktop/NsatavnicMVP+/NsatavnicMVP+/MainAplicationControllerModule/Cells/FourCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "8E003012-0B5B-437A-8F2C-62948FCB83E2 - 317ba781194b2d9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NsatavnicMVP_.FourCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NsatavnicMVP_.FourCell&gt;"
+                  moduleName = "NsatavnicMVP+"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levsuhanov/Desktop/NsatavnicMVP+/NsatavnicMVP+/MainAplicationControllerModule/Cells/FourCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
